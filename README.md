@@ -1,4 +1,4 @@
-# Learning the kernel continuously
+### Learning the kernel hyperparameters continuously
 
 This algorithm learns convex combinations of continuously parameterized kernels. For example, we can select a kernel among the set of Gaussian kernels whose parameter lies in a given interval.
 
