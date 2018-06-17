@@ -1,6 +1,6 @@
-load '~/data/colt/digitsoe';
-load '~/data/colt/digits47';
-load '~/data/colt/digits38';
+load 'data/digitsoe';
+load 'data/digits47';
+load 'data/digits38';
 
 n = 5;
 d = 784;
