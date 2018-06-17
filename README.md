@@ -6,6 +6,6 @@ Like [multiple kernel learning](http://www.jmlr.org/papers/volume5/lanckriet04a/
 
 The resulting optimization problem is not convex, in general. However, in certain cases of interest (such as Gaussian kernels), a *DC<sup>1</sup> decomposition* of the problem can be readily obtained. The algorithm implemented comes from the area of DC optimization and is tractable for a limited number of kernel parameters.
 
-To run the experiments in [A DC-Programming Algorithm for Kernel Selection](http://ttic.uchicago.edu/~argyriou/papers/dc-prog.pdf), execute the `digit_runs*.m` scripts.
+To run the experiments in [A DC-Programming Algorithm for Kernel Selection](http://ttic.uchicago.edu/~argyriou/papers/dc-prog.pdf), execute the `digit_runs*.m` scripts (after downloading and processing the MNIST data under `data/` as in the paper).
 
 <sup>1</sup>Difference of convex functions.
